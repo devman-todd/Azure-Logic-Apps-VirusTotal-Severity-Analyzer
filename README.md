@@ -10,10 +10,46 @@ This project showcases an Azure Logic Apps workflow that utilizes the VirusTotal
 
 <h2>Program walk-through</h2>
 
-STEP 1 <br/>
-If you don't already have an MS Azure subscription, you can create a free account [here](https://azure.microsoft.com/en-us/free) and try it out on a free trial.<br/> <br />
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<br />
+<b>Step 1</b> 
+<br/>
+If you don't already have an MS Azure subscription, you can create a free account [here](https://azure.microsoft.com/en-us/free) and try it out on a free trial.
+<br/> 
+<br/>
+<img src="https://i.imgur.com/p5AKE0U.png" height="80%" width="80%"> 
+<br/>
+<br/>
+<b>Step 2</b> 
+<br/>
+TEXT
+<br/>
+<br/>
+<img src="" height="80%" width="80%"> 
+<br/>
+<br/>
+<b>Step 3</b> 
+<br/>
+TEXT
+<br/>
+<br/>
+<img src="" height="80%" width="80%"> 
+<br/>
+<br/>
+<b>Step 4</b> 
+<br/>
+TEXT
+<br/>
+<br/>
+<img src="" height="80%" width="80%"> 
+<br/>
+<br/>
+<b>Step 5</b> 
+<br/>
+TEXT
+<br/>
+<br/>
+<img src="" height="80%" width="80%"> 
+<br/>
+<br/>
 Usage:
 Explain how to use the Azure Logic App:
 Input format (e.g., hash value).
