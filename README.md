@@ -70,6 +70,6 @@ Include a Frequently Asked Questions (FAQ) section if applicable.
 For additional support, refer to the official documentation below:
 <br/>
 - <b>TEXT Documentation</b>
-- <b>TEXT Documentation</b>
-<br/>
+- <b>TEXT Documentation</b><br/>
+
 Feel free to reach out to me on LinkedIn to discuss this project or any related topics. You can find me <a href="https://www.linkedin.com/in/tadeh-anbarchian/" target="_blank">here</a>.
