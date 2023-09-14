@@ -1,4 +1,4 @@
-<h1>File Threat Level Assessment with VirusTotal and Azure Logic Apps</h1>
+<h1>File Severity Score with VirusTotal and Azure Logic Apps</h1>
 
 This project showcases an Azure Logic Apps workflow that utilizes the VirusTotal API to assess the severity of files, aiding in malware detection and security analysis.
 <br />
