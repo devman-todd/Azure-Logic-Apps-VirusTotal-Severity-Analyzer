@@ -8,7 +8,7 @@ This project showcases an Azure Logic Apps workflow that utilizes the VirusTotal
 - <b>Microsoft Azure Logic Apps</b> 
 - <b>VirusTotal API</b>
 
-<h2>Program walk-through</h2>
+@@ Program walk-through @@
 
 <b>Step 1</b> 
 <br/>
@@ -67,14 +67,9 @@ Include a Frequently Asked Questions (FAQ) section if applicable.
 
 <h2>Links</h2>
 
-Include relevant links, such as a link to your LinkedIn profile, the live Azure Logic App (if applicable), and your VirusTotal API documentation (if publicly accessible).
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+For additional support, refer to the official documentation below:
+<br/>
+- <b>TEXT Documentation</b>
+- <b>TEXT Documentation</b>
+<br/>
+Feel free to reach out to me on LinkedIn to discuss this project or any related topics. You can find me [here](https://www.linkedin.com/in/tadeh-anbarchian/)
