@@ -8,7 +8,7 @@ This project showcases an Azure Logic Apps workflow that utilizes the VirusTotal
 - <b>Microsoft Azure Logic Apps</b> 
 - <b>VirusTotal API</b>
 
-@@ Program walk-through @@
+<h2>Program walk-through</h2>
 
 <b>Step 1</b> 
 <br/>
