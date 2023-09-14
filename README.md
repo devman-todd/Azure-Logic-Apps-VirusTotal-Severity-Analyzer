@@ -12,7 +12,7 @@ This project showcases an Azure Logic Apps workflow that utilizes the VirusTotal
 
 <b>Step 1</b> 
 <br/>
-If you don't already have an MS Azure subscription, you can create a free account [here](https://azure.microsoft.com/en-us/free) and try it out on a free trial.
+If you don't already have an MS Azure subscription, you can create a free account <a href="https://azure.microsoft.com/en-us/free" target="_blank">here</a> and try it out on a free trial.
 <br/> 
 <br/>
 <img src="https://i.imgur.com/p5AKE0U.png" height="80%" width="80%"> 
