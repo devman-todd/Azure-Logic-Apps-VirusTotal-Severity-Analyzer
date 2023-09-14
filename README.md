@@ -3,20 +3,16 @@
 This project showcases an Azure Logic Apps workflow that utilizes the VirusTotal API to assess the severity of files, aiding in malware detection and security analysis.
 <br />
 
-
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>Microsoft Azure Logic Apps</b> 
+- <b>VirusTotal API</b>
 
 <h2>Program walk-through</h2>
 
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+STEP 1 <br/>
+If you don't already have an MS Azure subscription, you can create a free account [here](https://azure.microsoft.com/en-us/free) and try it out on a free trial.<br/> <br />
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />
 Usage:
 Explain how to use the Azure Logic App:
